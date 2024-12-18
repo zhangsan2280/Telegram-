@@ -24,11 +24,8 @@
 Vite2 + TypeScript + Vue3 + element-plus
 
 
-反诈网站：
 反诈网站： https://www.telegramfanzha.com/ 测试账号：test 密码:1234567
 
-
-服务器部署配置参考：[http://www.diyhi.com/article-10.html](http://www.diyhi.com/article-10.html)
 
 <br>
 
@@ -49,7 +46,6 @@ Vite2 + TypeScript + Vue3 + element-plus
 
 - 方法二（推荐服务器部署时使用）：
 使用Nginx配置跨域。
-参考：[http://www.diyhi.com/article-10.html](前后端分离模板在服务器上部署)链接里的Nginx配置方法
 <br>
 
 **切换后端模板** 
